@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Bento 🖐🏼
 
-[![portfolio](https://img.shields.io/website?label=gustavo.portfolio&style=for-the-badge&url=https://gustavobento.github.io/portfolio/)](https://gustavobento.github.io/portfolio/)
+[![portfolio](https://img.shields.io/website?label=gustavo.portfolio&style=for-the-badge&url=https://gustavobento.github.io/portfolio/)](https://gustavobento-dev.com.br/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavobentto_/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gustavo.bento.16/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bento/)
