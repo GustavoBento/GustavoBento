@@ -8,10 +8,10 @@ Em busca de uma oportunidade de estágio ou posição júnior na área de desenv
 
 <div style="display: flex; flex-direction: row; align-items: stretch;">
   <a href="https://github.com/GustavoBento/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=GustavoBento&show_icons=true&theme=dark&card_width=530#gh-dark-mode-only" style="width: 550px; height: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=GustavoBento&show_icons=true&theme=dark&card_width=530#gh-dark-mode-only" style="width: 50%; ">
   </a>
   <a href="https://github.com/GustavoBento/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBento&layout=donut&theme=dark&card_width=320#gh-dark-mode-only" style="width: 350px; height: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBento&layout=donut&theme=dark&card_width=320#gh-dark-mode-only" style="width: 32%; ">
   </a>
 </div>
 
