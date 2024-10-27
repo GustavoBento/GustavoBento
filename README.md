@@ -6,12 +6,12 @@ Em busca de uma oportunidade de estágio ou posição júnior na área de desenv
 
 ##
 
-<div style="display: flex; flex-direction: row; align-items: stretch;">
+<div style="display: flex; flex-direction: row; align-items: stretch; width: 100%; height: 500px;">
   <a href="https://github.com/GustavoBento/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=GustavoBento&show_icons=true&theme=dark&card_width=530#gh-dark-mode-only" style="width: 50%; ">
+    <img src="https://github-readme-stats.vercel.app/api?username=GustavoBento&show_icons=true&theme=dark&card_width=530#gh-dark-mode-only" style="width: 472px;">
   </a>
   <a href="https://github.com/GustavoBento/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBento&layout=donut&theme=dark&card_width=320#gh-dark-mode-only" style="width: 32%; ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBento&layout=donut&theme=dark&card_width=320#gh-dark-mode-only" style="width: 300px;">
   </a>
 </div>
 
@@ -32,11 +32,6 @@ Em busca de uma oportunidade de estágio ou posição júnior na área de desenv
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bento/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gustavobentoo)
 
-
-
 Vamos nos conectar! Você pode me encontrar no LinkedIn ou enviar um email para gustavobentodev@gmail.com
 
-
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
